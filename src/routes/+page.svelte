@@ -1,4 +1,5 @@
 <script>
+  import { onMount } from 'svelte';
   import WorkItem from '$lib/components/WorkItem.svelte';
   import CopyButton from '$lib/components/CopyButton.svelte';
 
@@ -54,6 +55,29 @@
       link: 'https://krink.com/'
     },
   ];
+
+  // on mount
+  onMount(() => {
+    // get all images that are not already loaded
+    const allImages = document.querySelectorAll('img[loading="lazy"]:not(.loaded)')
+
+    // if no images are found, return
+    if (allImages.length === 0) {
+      return
+    }
+
+    // loop through all images
+    allImages.forEach((image) => {
+      // check if image is already loaded, if not, add listener
+      if (!image.complete) {
+        image.addEventListener('load', () => {
+          image.classList.add('loaded')
+        })
+      } else {
+        image.classList.add('loaded')
+      }
+    })
+  });
 </script>
 
 <header class="flex flex-col justify-center items-center px-6 lg:px-12 pt-12">

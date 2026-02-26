@@ -91,3 +91,12 @@ body {
 		color: var(--color-red);
 	}
 }
+
+img[loading='lazy'] {
+  opacity: 0;
+  transition: opacity 0.4s;
+
+  &.loaded {
+    opacity: 1;
+  }
+}
