@@ -87,8 +87,10 @@ body {
 	transition: text-shadow 0.3s, color 0.3s;
 
 	&:hover {
-		text-shadow: 1px 0px 10px transparent;
-		color: var(--color-red);
+		@media (min-width: 1024px) {
+			text-shadow: 1px 0px 10px transparent;
+			color: var(--color-red);
+		}
 	}
 }
 

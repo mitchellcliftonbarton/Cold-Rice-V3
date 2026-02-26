@@ -31,9 +31,11 @@
     }
 
     &:hover {
-      span:first-child {
-        text-shadow: 1px 0px 10px transparent;
-        color: var(--color-red);
+      @media (min-width: 1024px) {
+        span:first-child {
+          text-shadow: 1px 0px 10px transparent;
+          color: var(--color-red);
+        }
       }
     }
   }
