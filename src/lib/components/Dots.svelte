@@ -1,0 +1,11 @@
+<svg class="dots-icon" viewBox="0 0 20 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="2" cy="2" r="2" fill="currentColor"/>
+  <circle cx="10" cy="2" r="2" fill="currentColor"/>
+  <circle cx="18" cy="2" r="2" fill="currentColor"/>
+</svg>
+
+<style>
+  .dots-icon {
+    width: 2.5rem;
+  }
+</style>
