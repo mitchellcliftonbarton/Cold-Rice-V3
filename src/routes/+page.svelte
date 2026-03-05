@@ -15,6 +15,11 @@
       link: 'https://www.kevinkramergallery.com/'
     },
     {
+      title: 'Storefront for Art & Architecture',
+      description: 'Custom Wordpress theme. Design by <a href="https://newinfo.studio/" target="_blank" class="def-link">New Information</a>.',
+      link: 'https://storefront.nyc/'
+    },
+    {
       title: 'American Literary Translators Association',
       description: 'Custom Wordpress theme. Design by <a href="https://newinfo.studio/" target="_blank" class="def-link">New Information</a>.',
       link: 'https://literarytranslators.org/'
@@ -25,14 +30,14 @@
       link: 'https://antennebooks.com/'
     },
     {
+      title: 'Ready to Hang',
+      description: 'Custom Shopify OS 2.0 theme.',
+      link: 'https://ready-to-hang.com/'
+    },
+    {
       title: 'States of Change',
       description: 'Custom Shopify OS 2.0 theme built in collaboration with <a href="https://matthewbooth.info/" target="_blank" class="def-link">Matthew Booth</a>.',
       link: 'https://statesofchange.us/'
-    },
-    {
-      title: 'Storefront for Art & Architecture',
-      description: 'Custom Wordpress theme. Design by <a href="https://newinfo.studio/" target="_blank" class="def-link">New Information</a>.',
-      link: 'https://storefront.nyc/'
     },
     {
       title: 'Gallery98',
