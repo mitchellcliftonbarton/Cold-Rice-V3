@@ -88,11 +88,11 @@
   <div class="text-center max-w-[254px] leading-[1.2]">Cold Rice is a web development studio founded by <a href="https://mitchellbarton.com" class="def-link" target="_blank">Mitchell Barton</a>.</div>
 </div>
 
-<div class="grid grid-cols-4 px-6 lg:px-md pb-60 gap-md lg:gap-base mt-16 lg:mt-0 max-w-[1600px] mx-auto">
+<div class="grid grid-cols-4 px-6 lg:px-[5rem] pb-60 gap-md lg:gap-base mt-16 lg:mt-0 max-w-[1600px] mx-auto">
   <div class="order-1 col-span-4 lg:col-span-1 vert-spacing-md hidden lg:block">
     <section class="contact relative pt-16">
       <div class="relative">
-        <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] opacity-30">1.</span>
+        <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] translate-y-[-.2em] bg-yellow w-[2.5rem] h-[2.5rem] flex justify-center items-center rounded-full">1</span>
 
         <div class="fade-in">
           <h2 class="font-secondary uppercase text-red text-base-minus">Contact</h2>
@@ -112,10 +112,10 @@
 
   <div class="order-1 lg:order-2 col-span-4 lg:col-span-1 lg:pt-16">
     <div class="vert-spacing-md">
-      <section class="vert-spacing-base relative pl-10 lg:pl-0">
+      <section class="vert-spacing-base relative pl-14 lg:pl-0">
         <div class="relative">
-          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] opacity-30 hidden lg:block">2.</span>
-          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] opacity-30 block lg:hidden">1.</span>
+          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] translate-y-[-.2em] bg-yellow w-[2.5rem] h-[2.5rem] justify-center items-center rounded-full hidden lg:flex">2</span>
+          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] translate-y-[-.2em] bg-yellow w-[2.5rem] h-[2.5rem] justify-center items-center rounded-full flex lg:hidden">1</span>
 
           <div class="fade-in">
             <h2 class="font-secondary uppercase text-red text-base-minus">Studio</h2>
@@ -148,9 +148,9 @@
       </section>
 
       <section class="vert-spacing-md lg:hidden">
-        <section class="relative pl-10 lg:pl-0">
+        <section class="relative pl-14 lg:pl-0">
           <div class="relative">
-            <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] opacity-30">2.</span>
+            <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] translate-y-[-.2em] bg-yellow w-[2.5rem] h-[2.5rem] flex justify-center items-center rounded-full">2</span>
 
             <div class="fade-in">
               <h2 class="font-secondary uppercase text-red text-base-minus">Contact</h2>
@@ -168,9 +168,9 @@
         </figure>
       </section>
 
-      <section class="vert-spacing-base relative pl-10 lg:pl-0">
+      <section class="vert-spacing-base relative pl-14 lg:pl-0">
         <div class="relative">
-          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] opacity-30">3.</span>
+          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] translate-y-[-.2em] bg-yellow w-[2.5rem] h-[2.5rem] flex justify-center items-center rounded-full">3</span>
 
           <div class="fade-in">
             <h2 class="font-secondary uppercase text-red text-base-minus">Work</h2>
@@ -218,9 +218,9 @@
         </figure>
       </div>
       
-      <section class="vert-spacing-base relative pl-10 lg:pl-0">
+      <section class="vert-spacing-base relative pl-14 lg:pl-0">
         <div class="relative">
-          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] opacity-30">4.</span>
+          <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] translate-y-[-.2em] bg-yellow w-[2.5rem] h-[2.5rem] flex justify-center items-center rounded-full">4</span>
 
           <div class="fade-in">
             <h2 class="font-secondary uppercase text-red text-base-minus">Pricing/Process</h2>
@@ -268,9 +268,9 @@
   </div>
 
   <div class="order-4 col-span-4 lg:col-span-1 lg:pt-16">
-    <section class="vert-spacing-base relative pl-10 lg:pl-20">
+    <section class="vert-spacing-base relative pl-14 lg:pl-20">
       <div class="relative">
-        <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] opacity-30">5.</span>
+        <span class="absolute left-0 top-0 translate-x-[calc(-100%-1.3rem)] translate-y-[-.2em] bg-yellow w-[2.5rem] h-[2.5rem] flex justify-center items-center rounded-full">5</span>
 
         <div class="fade-in">
           <h2 class="font-secondary uppercase text-red text-base-minus">Featured Work</h2>
