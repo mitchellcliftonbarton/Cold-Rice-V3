@@ -30,9 +30,19 @@
       link: 'https://antennebooks.com/'
     },
     {
+      title: 'Queens Museum',
+      description: 'Custom Wordpress theme. Design by <a href="https://newinfo.studio/" target="_blank" class="def-link">New Information</a>.',
+      link: 'https://queensmuseum.org/'
+    },
+    {
       title: 'Ready to Hang',
       description: 'Custom Shopify OS 2.0 theme.',
       link: 'https://ready-to-hang.com/'
+    },
+    {
+      title: 'Utah Museum of Contemporary Art',
+      description: 'Custom Wordpress theme. Design by <a href="https://actualsource.work/" target="_blank" class="def-link">Actual Source</a> and <a href="https://alotofmoving.parts/" target="_blank" class="def-link">A Lot of Moving Parts</a>.',
+      link: 'https://utahmoca.org/'
     },
     {
       title: 'States of Change',
@@ -43,11 +53,6 @@
       title: 'Gallery98',
       description: 'Custom Wordpress theme built in collaboration with <a href="https://folder.studio/" target="_blank" class="def-link">Folder Studio</a>. Design by <a href="https://folder.studio/" target="_blank" class="def-link">Folder Studio</a>.',
       link: 'https://gallery98.org/'
-    },
-    {
-      title: 'Utah Museum of Contemporary Art',
-      description: 'Custom Wordpress theme. Design by <a href="https://actualsource.work/" target="_blank" class="def-link">Actual Source</a> and <a href="https://alotofmoving.parts/" target="_blank" class="def-link">A Lot of Moving Parts</a>.',
-      link: 'https://utahmoca.org/'
     },
     {
       title: 'June Rings',
