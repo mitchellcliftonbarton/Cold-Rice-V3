@@ -6,6 +6,15 @@
 </script>
 
 <svelte:head>
+	<!-- Google tag (gtag.js) -->
+	<!-- svelte-ignore a11y_missing_attribute -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-H4MDH37VRZ"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-H4MDH37VRZ');
+	</script>
 	<title>Cold Rice LLC</title>
 	<meta name="description" content="Cold Rice is a web development studio founded by Mitchell Barton. Based in Salt Lake City, UT, Cold Rice builds bespoke websites for cultural and commercial clients." />
 	<meta property="og:title" content="Cold Rice LLC" />
