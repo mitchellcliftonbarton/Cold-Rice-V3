@@ -234,7 +234,7 @@
 
           <div class="fade-in">
             <h2 class="font-secondary uppercase text-red text-base-minus">Pricing/Process</h2>
-            <div class="leading-[1.2] mt-4">New project builds typically take 3–6 months and run $20k–$40k — an average, not a minimum. Smaller or experimental projects are occasionally a great fit too. Feel free to reach out.
+            <div class="leading-[1.2] mt-4">New project builds typically take 3-6 months and run $20k-$40k — an average, not a minimum. Smaller or experimental projects are occasionally a great fit too. Feel free to reach out.
             <br>
             <br>
             A typical project follows 4 phases:
