@@ -234,7 +234,7 @@
 
           <div class="fade-in">
             <h2 class="font-secondary uppercase text-red text-base-minus">Pricing/Process</h2>
-            <div class="leading-[1.2] mt-4">New project builds typically take 3-6 months and run $20k-$40k — an average, not a minimum. Smaller or experimental projects are occasionally a great fit too. Feel free to reach out.
+            <div class="leading-[1.2] mt-4">New project builds typically take 3–6 months and run $20k–$40k — an average, not a minimum. Smaller or experimental projects are occasionally a great fit too. Feel free to reach out.
             <br>
             <br>
             A typical project follows 4 phases:
@@ -242,7 +242,7 @@
             <br>
             <h3>
               <span class="italic">Setup</span>
-              <span class="opacity-30">(2-4 weeks)</span>
+              <span class="opacity-30">(2–4 weeks)</span>
             </h3>
             <div>
               We like to get involved in projects early — getting a sense of where design is headed from the get-go prevents scope creep and allows for more thoughtful dev planning. Once development is ready to kickoff, we define milestones and start a setup process that involves building the foundations of the website.
@@ -250,7 +250,7 @@
             <br>
             <h3>
               <span class="italic">Development</span>
-              <span class="opacity-30">(4-8 weeks)</span>
+              <span class="opacity-30">(4–8 weeks)</span>
             </h3>
             <div>
               In this phase we work towards a beta site. Once layouts, styling, and functionality are finished, we provide a staging link and hold a CMS training in preparation for content input and QA.
@@ -258,7 +258,7 @@
             <br>
             <h3>
               <span class="italic">QA/Launch</span>
-              <span class="opacity-30">(4-8 weeks)</span>
+              <span class="opacity-30">(4–8 weeks)</span>
             </h3>
             <div>
               Here, we make the final push to get the site ready to go live. After content input, we go through multiple rounds of bug tracking and fixing until the site is ready for launch.
@@ -269,7 +269,7 @@
               <span class="opacity-30">(Ongoing)</span>
             </h3>
             <div>
-              After launch, we provide 30 days of post-launch support for any bugs or questions that might come up. After this period, we offer ongoing support in the form of maintenance retainers. These usually end up in the $500 - $1,500/month range.
+              After launch, we provide 30 days of post-launch support for any bugs or questions that might come up. After this period, we offer ongoing support in the form of maintenance retainers. These usually end up in the $500–$1,500/month range.
             </div></div>
           </div>
         </div>
