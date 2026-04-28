@@ -106,7 +106,7 @@
 
         <div class="fade-in">
           <h2 class="font-secondary uppercase text-red text-base-minus">Contact</h2>
-          <div class="leading-[1.2] mt-4">Get in touch:<br><br><CopyButton textToCopy="mail@cold-rice.info" buttonText="mail@cold-rice.info" /><br><a href="https://instagram.com/coldrice.info" class="def-link" target="_blank">Instagram</a></div>
+          <div class="leading-[1.2] mt-4">Get in touch:<br><br><CopyButton textToCopy="mail@cold-rice.info" buttonText="mail@cold-rice.info" /><br><a href="https://www.instagram.com/cold__rice/" class="def-link" target="_blank">Instagram</a></div>
         </div>
       </div>
     </section>
