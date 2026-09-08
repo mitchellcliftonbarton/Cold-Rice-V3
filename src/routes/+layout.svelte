@@ -24,6 +24,10 @@
 </svelte:head>
 
 <div id="app">
+	<header class="flex flex-col justify-center items-center px-6 lg:px-12 pt-12">
+		<a href="/" class="font-secondary text-base-minus">Cold Rice LLC</a>
+	</header>
+
 	<main>
 		{@render children()}
 	</main>

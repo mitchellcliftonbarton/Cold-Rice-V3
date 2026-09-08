@@ -5,6 +5,11 @@
 
   const workItems = [
     {
+      title: 'Garth Greenan Gallery',
+      description: 'Custom Wordpress theme. Design by <a href="https://smalleditions.nyc/" target="_blank" class="def-link">Small Editions</a>.',
+      link: 'https://garthgreenan.com/'
+    },
+    {
       title: 'Skowhegan School of Painting & Sculpture',
       description: 'Custom Wordpress theme. Design by <a href="https://newinfo.studio/" target="_blank" class="def-link">New Information</a>.',
       link: 'https://skowheganart.org/'
@@ -89,10 +94,6 @@
     })
   });
 </script>
-
-<header class="flex flex-col justify-center items-center px-6 lg:px-12 pt-12">
-  <a href="/" class="font-secondary text-base-minus">Cold Rice LLC</a>
-</header>
 
 <div class="flex justify-center items-center mt-8">
   <div class="text-center max-w-[254px] leading-[1.2]">Cold Rice is a web development studio founded by <a href="https://mitchellbarton.com" class="def-link" target="_blank">Mitchell Barton</a>.</div>
@@ -313,19 +314,4 @@
       background: linear-gradient(to bottom, white 20%, transparent);
     }
   }
-
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-
-  /* .fade-in {
-    opacity: 0;
-    animation: fadeIn 0.4s ease-in-out forwards;
-    animation-delay: 1s;
-  } */
 </style>
