@@ -203,7 +203,7 @@
             June Rings<br>
             Krink<br>
             Monkeypaw Productions<br>
-            Robert Rauschenberg Foundationn<br>
+            Robert Rauschenberg Foundation<br>
             Skowhegan School of Painting & Sculpture<br>
             Storefront for Art & Architecture<br>
             Queens Museum<br>
