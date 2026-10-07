@@ -20,6 +20,11 @@
       link: 'https://www.kevinkramergallery.com/'
     },
     {
+      title: 'Rauschenberg 100',
+      description: 'Custom Wordpress theme. Design by <a href="https://newinfo.studio/" target="_blank" class="def-link">New Information</a>.',
+      link: 'https://rauschenberg100.org/'
+    },
+    {
       title: 'Storefront for Art & Architecture',
       description: 'Custom Wordpress theme. Design by <a href="https://newinfo.studio/" target="_blank" class="def-link">New Information</a>.',
       link: 'https://storefront.nyc/'
